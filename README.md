@@ -7,5 +7,5 @@
 
 
 # NOTE 
-分別展示平局以及AI贏的局面。  
+一些筆記。  
 <img width="500" src="https://github.com/unromanticman/tic-tac-toe-AI/blob/master/note.jpg?raw=true">
